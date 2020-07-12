@@ -21,7 +21,7 @@ export default () => ({
       css: ["materialize", "bootstrap"]
     },
     backEnd: {
-      cpp: ["maps", "PBDS"]
+      cpp: ["maps", "PBDS"],
       java: ["spring", "JSP", "swing", "Servlet"],
       python: ["flask", "OpenCV"],
       misc: ["adobe premiere pro", "linux"]
@@ -39,7 +39,7 @@ export default () => ({
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
 <a href="mailto:souvikghosh199831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/souvik-ghosh-15a831156/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/souvik-ghosh-15a831156/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/fear.the.lord/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100004736209454" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
 ---

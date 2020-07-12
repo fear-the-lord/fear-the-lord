@@ -22,7 +22,7 @@ export default () => ({
       cpp: ["maps", "PBDS"]
       java: ["spring", "JSP", "swing", "Servlet"],
       python: ["flask", "OpenCV"],
-      misc: ["adobe premiere pro", "selinux"]
+      misc: ["adobe premiere pro", "linux"]
     },
     machineLearning: ["tensorflow", "keras"],
     databases: ["Oracle", "MySQL", "Cassandra"]

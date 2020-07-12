@@ -5,19 +5,28 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const indian = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am learning competitive programming"
-}
+```js
+export default () => ({
+  nationality: "Indian",
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "webdev", "tech", "music", "movies"
+    "deep learning", "cricket", "chess"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["p5", "angular"],
+      css: ["materialize", "bootstrap"]
+    },
+    backEnd: {
+      java: ["spring", "JSP", "swing", "Servlet"],
+      python: ["flask", "OpenCV"],
+      misc: ["adobe premiere pro", "selinux"]
+    },
+    machineLearning: ["tensorflow", "keras"],
+    databases: ["Oracle", "MySQL", "Cassandra"]
+  },
+});
 ```
 
 [![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=fear-the-lord&hide=["prs"])](https://github.com/fear-the-lord/github-readme-stats)

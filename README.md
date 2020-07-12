@@ -25,10 +25,10 @@ const thai = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souvik-ghosh-15a831156/?originalSubdomain=in)](https://www.linkedin.com/in/souvik-ghosh-15a831156/?originalSubdomain=in)
+<a href="https://www.linkedin.com/in/souvik-ghosh-15a831156/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![GitHub Thaiane](https://img.shields.io/github/followers/fear-the-lord?style=social)](https://github.com/fear-the-lord)
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Souvik](https://github.com/fear-the-lord)
 

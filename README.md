@@ -19,6 +19,7 @@ export default () => ({
       css: ["materialize", "bootstrap"]
     },
     backEnd: {
+      cpp: ["maps", "PBDS"]
       java: ["spring", "JSP", "swing", "Servlet"],
       python: ["flask", "OpenCV"],
       misc: ["adobe premiere pro", "selinux"]
@@ -26,6 +27,7 @@ export default () => ({
     machineLearning: ["tensorflow", "keras"],
     databases: ["Oracle", "MySQL", "Cassandra"]
   },
+  challenge: "I am working hard to master Competitive Programming" 
 });
 ```
 

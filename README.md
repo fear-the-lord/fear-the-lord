@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hi, I'm Souvik Ghosh! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/35571958/87239980-b3130b00-c432-11ea-9571-24c85defd75a.png" width="350" height = "300">
 <p><em>Pursuing Masters from <a href="http://www.pondiuni.edu.in/">Pondicherry University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">

@@ -10,7 +10,7 @@ export default () => ({
   nationality: "Indian",
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webdev", "tech", "music", "movies"
+    "webdev", "video editing", "music", "movies"
     "deep learning", "cricket", "chess"
   ],
   technologies: {

@@ -33,7 +33,8 @@ export default () => ({
 
 [![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=fear-the-lord&hide=["prs"])](https://github.com/fear-the-lord/github-readme-stats)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people. So, I would be glad if I get to know some :)<img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people. So, I would be glad if I get to know some :)</em>
+  <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
 <a href="mailto:souvikghosh199831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/souvik-ghosh-15a831156/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

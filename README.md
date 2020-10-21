@@ -27,7 +27,8 @@ export default () => ({
       misc: ["adobe premiere pro", "linux"]
     },
     machineLearning: ["tensorflow", "keras"],
-    databases: ["Oracle", "MySQL", "Cassandra"]
+    databases: ["Oracle", "MySQL", "Cassandra"],
+    appdevelopment: ["Flutter"]
   },
   challenge: "I am working hard to master Competitive Programming" 
 });
